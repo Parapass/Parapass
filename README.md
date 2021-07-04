@@ -1,4 +1,5 @@
-I do coding stuff.
+I sometimes go on here just to make stupid pull requests.
 
-You can find me here:
-twitter: https://twitter.com/Parapass3D
+If you actually need to reach me, my Discord is Parapass#7234
+
+Also hi stalkers who clicked on my linked GitHub
