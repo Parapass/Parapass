@@ -1432,11 +1432,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.98934156788525" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="222.98934156788525" y="0" width="169.30969220041837" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="392.2990337683036" y="0" width="52.19045721685427" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="444.4894909851579" y="0" width="15.464687717900189" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.95417870305806" y="0" width="0.045821296941926486" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.681190851735" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="220.681190851735" y="0" width="167.5571766561514" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="388.23836750788644" y="0" width="56.41167192429022" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="444.65003943217664" y="0" width="15.30461356466877" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.9546529968454" y="0" width="0.04534700315457413" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1502,12 +1502,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">ModAssistant</span>
-                                <div class="bar" style="width: 79.55199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.4%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">parapass.github.io</span>
-                                <div class="bar" style="width: 0.44800000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1517,12 +1517,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 79.55199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.4%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.44800000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1531,7 +1531,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14/09/2021, 04:10  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 14/09/2021, 05:09  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
